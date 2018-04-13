@@ -1,0 +1,1 @@
+include ':app', ':Schedulee.Core', ':Schedulee.ViewModels'
