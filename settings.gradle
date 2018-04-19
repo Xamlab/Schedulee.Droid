@@ -1,1 +1,1 @@
-include ':app', ':Schedulee.Core', ':Schedulee.ViewModels'
+include ':app'
